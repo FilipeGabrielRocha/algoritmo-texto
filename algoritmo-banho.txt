@@ -1,0 +1,111 @@
+Banho masculino, trocar pneu, trocar lâmpada
+
+Início
+
+1 - ir até o guarda-roupa
+2 - Abrir o guarda-roupa
+3 - Abrir gaveta de shorts
+4 - Pegar shorts
+5 - Por shorts em cima do braço
+6 - Fechar gaveta de shorts
+7 - Abrir a gaveta de cuecas
+8 - Pegar cueca
+9 - Por cueca em cima do shorts
+10 - fechar gaveta de cuecas
+11 - Abrir gaveta de camisas
+12 - pegar camisa
+13 - por camisa em cima da cueca
+14 - fechar gaveta de camisas
+15 - abrir a gaveta de toalha
+16 - pegar a toalha
+17 - por a toalha em cima da camisa
+18 - fechar a gaveta de toalha
+19 - fechar guarda-roupa
+    20 - ta com chinelo?
+    se sim 
+    20.1 - ir para a frente do banheiro
+    se nao
+    20.1 - ir ate onde está o chinelo
+    20.2 - colocar o chinelo do pé esquerdo
+    20.3 - colocar o chinelo do pé direito
+    20.4 - ir para a frente do banheiro
+21 - porta esta aberta?
+    se nao
+    21.1 - abrir porta do banheiro
+    se sim
+    21.2 - entrar no banheiro
+22 - fechar a porta
+23 - ir até o lugar de pendurar a toalha
+24 - pegar a toalha com a mão livre
+25 - pendurar a toalha com a mão livre
+26 - ir até a privada
+27 - privada esta fechada?
+    se sim
+    27.1 - coloca toda a roupa pendurada no braço em cima da privada
+    se nao
+     27.1 - fechar a tampa da privada
+     27.2 - coloca toda a roupa pendurada no braço em cima da privada
+28 - tirar o chinelo esquerdo
+29 - tirar o chinelo direito
+30 - tirar a camisa
+31 - jogar a camisa no chão
+32 - tirar o shorts
+33 - jogar o shorts em cima da camisa
+34 - tirar a cueca
+35 - jogar a cueca em cima do shorts
+36 - ir ate o cesto de roupa suja
+37 - abrir o cesto de roupa suja
+38 - ir ate a roupa suja
+39 - se a baixar
+40 - pegar o monte de roupa suja
+41 - se levantar
+42 - ir ate o cesto de roupa suja
+43 - jogar a roupa suja no cesto de roupa suja
+44 - fechar o cesto de roupa suja
+45 - ir ate o box
+46 - abrir o box
+47 - entrar no box
+48 - fechar o box
+49 - ir até embaixo do chuveiro
+50 - abrir a válvula para sair a água do chuveiro
+51 - se molhar por inteiro
+52 - tirar a cabeça da água
+53 - pegar o shampoo
+54 - abrir o shampoo
+55 - colocar o líquido do shampoo na mão
+56 - com a mão livre, fechar o shampoo
+57 - com a mão livre, guardar o shampoo
+58 - passar no cabelo
+59 - tirar o shampoo com a água
+60 - tirar a cabeça da água
+61 - pegar o condicionador
+62 - abrir o condicionador
+63 - colocar o líquido do condicionador na mão
+64 - com a mão livre, fechar o condicionador
+65 - com a mão livre, guardar o condicionador
+66 - passar no cabelo
+67 - tirar o condicionador com a água
+68 - pegar o sabão
+69 - se ensaboar
+70 - guardar o sabão
+71 - tirar o sabão com a água
+72 - fechar a válvula para parar de sair água do chuveiro
+73 - ir até a saída do box
+74 - abrir o box
+75 - sair do box
+76 - fechar o box
+77 - pegar a toalha
+78 - se enxugar todo
+79 - pendurar a toalha
+80 - ir até onde estão as roupas
+81 - pegar a camisa
+82 - por a camisa
+83 - pegar a cueca
+84 - por a cueca
+85 - pegar o shorts
+86 - por o shorts
+87 - vai até o chinelo
+88 - põe o chinelo do pé esquerdo
+89 - põe o chinelo do pé direito
+
+Fim do algoritmo 

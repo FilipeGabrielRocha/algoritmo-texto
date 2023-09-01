@@ -1,0 +1,67 @@
+Início
+
+1 - ir até o interruptor
+2 - apertar o interruptor para ascender a luz
+3 - ver que a lâmpada estava queimada
+4 - apertar o interruptor para apagar a luz
+5 - ir até o armário que tem uma lâmpada funcional
+6 - abrir o armário
+7 - pegar a lâmpada funcional
+8 - fechar o armário
+9 - voltar para a Sala
+10 - deixar a lâmpada no raque
+11 - ir até o quarto de ferramentas
+12 - a porta esta aberta?
+13 - se sim
+    13.1 - entrar no quarto
+    13.2 - pegar a escada
+    13.3 - sair do quarto
+13 - se nao
+    13.1 - abrir a porta
+    13.2 - entrar no quarto
+    13.3 - pegar a escada
+    13.4 - sair do quarto
+14 - carregar a escada até Sala
+15 - montar a escada embaixo da lâmpada
+16 - subir na escada até alcançar a lâmpada
+17 - por a mão na lâmpada
+18 - girar a lâmpada no sentido anti-horário até ela sair do soquete
+19 - continuar segurando a lâmpada
+20 - descer a escada com cuidado
+21 - ir até perto do raque
+22 - deixar a lâmpada queimada no raque
+23 - pegar a lâmpada funcional
+24 - ir até a escada
+25 - subir a escada até alcançar o soquete
+26 - posicionar a lâmpada dentro do soquete
+27 - girar a lâmpada no sentido horário até ela ficar presa no soquete
+28 - descer da escada
+29 - ir até o interruptor
+30 - apertar para ascender a luz
+31 - ver que agora está ascendendo
+32 - ir até a escada
+33 - desmontar a escada
+34 - segurar a escada
+35 - levar a escada até o quarto de ferramentas
+36 - entrar no quarto
+37 - guardar a escada onde foi pega inicialmente
+38 - sair do quarto
+39 - fechar a porta
+40 - voltar para a sala de Estar
+41 - ir até o raque
+42 - pegar a lâmpada queimada
+43 - ir até onde guarda o jornal
+44 - abre o armário que guarda os jornais
+45 - pega três jornais
+46 - fecha o armário que guarda os jornais
+47 - vai até a mesa da cozinha
+48 - deixa os jornais em cima da mesa
+49 - coloca a lâmpada queimada em cima dos jornais
+50 - embrulha a lâmpada 3 vezes com os jornais
+51 - pega a lâmpada embrulhada
+52 - vai até a lata de lixo
+53 - abrir a tampa da lata de lixo
+54 - jogar a lâmpada queimada e embrulhada dentro
+55 - fechar a lata de lixo
+
+Fim do algoritmo

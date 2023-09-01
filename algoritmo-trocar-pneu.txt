@@ -1,0 +1,156 @@
+Início
+
+1 - perceber que o pneu está furado
+2 - dar seta pra parar no acostamento
+3 - girar o volante para entrar no acostamento
+4 - pisa no freio para parar o carro no acostamento
+5 - põe o carro no neutro
+6 - puxa o freio de mão
+7 - liga o pisca alerta
+8 - abre a porta do motorista
+9 - sai do carro
+10 - fecha a porta do motorista
+11 - vai para parte de trás do carro
+12 - abre o porta mala
+13 - pega o chão do porta mala
+14 - deixa no chão
+15 - pega o triangulo
+16 - vai para uma distância de segurança
+17 - se abaixe
+18 - deixa o triângulo no chão
+19 - se levanta
+20 - volta para o carro
+21 - pega a chave de roda
+22 - pega o macaco
+23 - deixa a chave de roda e o macaco no chão
+24 - pega a roda reserva
+25 - tira de dentro do porta mala
+26 - deixa ao lado do pneu furado
+27 - vai até a chave de roda
+28 - se abaixa
+29 - paga a chave de roda
+30 - se levanta
+31 - vai até o pneu furado
+32 - se abaixe
+33 - coloca a chave de roda na porca de cima
+34 - use a chave de roda para soltar o a porca de cima
+35 - tira a chave de roda na porca de cima
+36 - coloca a chave de roda na porca de baixo
+37 - use a chave de roda para soltar o a porca de baixo
+38 - tira a chave de roda na porca de baixo
+39 - coloca a chave de roda na porca da esquerda
+40 - use a chave de roda para soltar o a porca de esquerda
+41 - tira a chave de roda na porca da esquerda
+42 - coloca a chave de roda na porca da direita
+43 - use a chave de roda para soltar o a porca de direita
+44 - tira a chave de roda da porca da direita
+45 - deixa a chave de roda no chão
+46 - se levanta
+47 - vai até o macaco
+48 - se abaixa
+49 - pega o macaco
+50 - se levanta
+51 - vai até o lado do pneu furado
+52 - se abaixa
+53 - procura o encaixe do macaco
+54 - coloca o macaco no encaixe
+55 - levanta o carro com o macaco
+56 - se levanta
+57 - vai até o pneu furado
+58 - se abaixa
+59 - pega a chave de roda
+60 - coloca a chave de roda na porca de cima
+61 - usa a chave de roda para tirar a porca de cima
+62 - tire a chave de roda
+63 - tire a porca da chave de roda
+64 - deixa a porca no chão
+65 - coloca a chave de roda na porca de baixo
+66 - usa a chave de roda para tirar a porca de baixo
+67 - tire a chave de roda
+68 - tire a porca da chave de roda
+69 - deixa a porca no chão 
+70 - coloca a chave de roda na porca da esquerda
+71 - usa a chave de roda para tirar a porca da esquerda
+72 - tire a chave de roda
+73 - tire a porca da chave de roda
+74 - deixa a porca no chão
+75 - coloca a chave de roda na porca da direita
+76 - usa a chave de roda para tirar a porca da direita
+77 - tire a chave de roda
+78 - tire a porca da chave de roda
+79 - deixa a porca no chão
+80 - deixa a chave de roda no chão
+81 - segura o pneu furado
+82 - tira o pneu furado
+83 - deixa o pneu furado do lado livre
+84 - pega o pneu bom
+85 - encaixa no lugar do pneu
+86 - pega a chave de roda
+87 - pega uma porca
+88 - coloca a porca na parte de cima
+89 - pega uma porca
+90 - coloca a porca na parte de baixo
+91 - pega uma porca
+92 - coloca a porca na parte da esquerda
+93 - pega uma porca
+94 - coloca a porca na parte da direita
+95 - coloca a chave de roda na parte de cima
+96 - gira a chave de roda ate apertar a porca
+97 - tira a chave de roda 
+98 - coloca a chave de roda na parte de baixo
+99 - gira a chave de roda ate apertar a porca
+100 - tira a chave de roda 
+101 - coloca a chave de roda na parte da esquerda
+102 - gira a chave de roda ate apertar a porca
+103 - tira a chave de roda 
+104 - coloca a chave de roda na parte da direta
+105 - gira a chave de roda ate apertar a porca
+106 - tira a chave de roda 
+107 - deixa a chave de roda no chão
+108 - se levanta
+109 - vai até o macaco
+110 - se abaixa
+111 - desce o carro com o macaco
+112 - tira o macaco do encaixe
+113 - se levanta
+114 - vai até o porta mala
+115 - guarda o macaco
+116 - vai até o pneu furado
+117 - se abaixa
+118 - pega o pneu furado
+119 - se levanta
+120 - leva o pneu furado girando ate o porta mala
+121 - coloca o pneu furado no lugar do antigo pneu
+122 - vai até a chave de roda
+123 - se abaixa
+124 - pega a chave de roda
+125 - coloca a chave de roda na porca de cima
+126 - gira mais vez para garantir que a porca esta presa
+127 - tira a chave de roda
+128 - coloca a chave de roda na porca de baixo
+129 - gira mais vez para garantir que a porca esta presa
+130 - tira a chave de roda
+131 - coloca a chave de roda na porca da esquerda
+132 - gira mais vez para garantir que a porca esta presa
+133 - tira a chave de roda
+134 - coloca a chave de roda na porca da direita
+135 - gira mais vez para garantir que a porca esta presa
+136 - tira a chave de roda
+137 - se levanta
+138 - vai até o porta mala
+139 - guarda a chave de roda
+140 - vai até o triangulo
+141 - se baixar
+142 - pegue o triangulo
+143 - se levanta
+144 - vai até o porta mala
+145 - guarde o triangulo
+146 - vai até o chão do porta mala
+147 - se abaixa
+148 - pega o chão do porta mala
+149 - se levanta
+150 - vai até o porta mala
+151 - coloca no lugar o chão do porta mala
+152 - fecha o porta mala
+
+Fim do algoritmo
